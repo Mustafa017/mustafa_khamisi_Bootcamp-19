@@ -16,4 +16,3 @@ def find_prime_numbers(n):
                 else:
                     solution.append(i)
             return solution
-print(find_prime_numbers(13))
