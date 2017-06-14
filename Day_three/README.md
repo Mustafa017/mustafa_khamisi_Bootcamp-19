@@ -3,17 +3,17 @@
 This project consists of 2 labs and their respective tests plus a simple commandline application that consumes a public API using the HTTP Client library. 
 The labs incude:
 
-    * Min_max.py
+    - min_max.py
 
-    * Test_min_max.py
+    - test_min_max.py
 
-    * Test_word_count.py
+    - test_word_count.py
 
-    * Word_count.py
+    - word_count.py
 
 The Command line application is:
 
-    * Http_web.py
+    - Http_web.py
 
 ## How to setup this project
 
