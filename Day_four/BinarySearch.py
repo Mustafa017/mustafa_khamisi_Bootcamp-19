@@ -8,7 +8,7 @@ class BinarySearch(list):
         self.append(b)
         len_list = 1
         while len_list < a: #Loop to generate the list
-            self.append(self[len_list - 1] + b)
+            self.append(self[len_list - 1]+ b)
             len_list += 1 #increment the length of list
 
         
