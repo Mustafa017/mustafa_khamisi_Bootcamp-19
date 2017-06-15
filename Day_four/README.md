@@ -10,7 +10,8 @@ The labs incude:
 
     - test_find_missing.py
 
-    - test_binarySearch.py
+    - test_binarySearch.
+    
 '''
 
 The front end HTML code is:
@@ -19,6 +20,7 @@ The front end HTML code is:
     - index.html
 
     - style.css
+    
 '''
 
 ## How to setup this project
