@@ -1,0 +1,125 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+.centerElement {
+    margin: 0px auto 0px auto;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#bodyWrapper {
+    width: 1280px;
+    height: 80px;
+}
+
+#headerWrapper {
+    width: auto;
+    height: 80px;
+    background-color: #3B5998;
+}
+
+#title {
+    width: 610px;
+    height: 60px;
+    margin-right: 15px;
+    float: left;
+    color: #FFFFFF;
+    font-size: 42px;
+    font-weight: bold;
+    padding: 20px 0px 0px 135px;
+}
+
+#login {
+    width: 520px;
+    height: 70px;
+    color: #FFFFFF;
+    float: right;
+    padding-top: 10px;
+    font-size: 14px;
+}
+
+#login input[type="submit"] {
+    background-color: #4267B2;
+    color: #FFFFFF;
+    border: none;
+    margin-left: 10px;
+}
+
+#login input[type="text"] {
+    width: 150px;
+    height: auto;
+    margin-right: 10px;
+}
+
+#contentWrapper {
+    width: auto;
+    height: 590px;
+    background-color: #E9EBEE;
+}
+
+#rightWrapper {
+    width: 550px;
+    height: 590px;
+    float: right;
+}
+
+#signUpForm {
+    padding-top: 15px;
+    float: left;
+}
+
+#msg b {
+    font-size: 36px;
+}
+
+.names input[type="text"] {
+    width: 173px;
+    height: 30px;
+    border-radius: 6px;
+    font-size: 18px;
+    padding-left: 5px;
+}
+
+.longText input[type="text"] {
+    width: 395px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 18px;
+    padding-left: 5px;
+}
+
+.text {
+    color: #999999;
+    font-size: 14px;
+}
+
+#signUp input[type="submit"] {
+    width: 178px;
+    height: 40px;
+    border-radius: 6px;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    margin: 10px 0px 10px 0px;
+    background-color: #3F6F21;
+    opacity: 0.9;
+}
+
+
+}
+#signUpForm select {
+    width: auto;
+    height: 40px;
+}
+#horizontal {
+    border: solid 1px #DDDFE2;
+}
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
