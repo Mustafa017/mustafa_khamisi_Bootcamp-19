@@ -3,7 +3,6 @@
 This project consists of 2 labs and their respective tests plus front end HTML code for facebook homepage.
 The labs incude:
 
-'''
     - BinarySearch.py
 
     - find_missing.py
@@ -12,16 +11,13 @@ The labs incude:
 
     - test_binarySearch.
     
-'''
 
 The front end HTML code is:
 
-'''
     - index.html
 
     - style.css
-    
-'''
+
 
 ## How to setup this project
 
